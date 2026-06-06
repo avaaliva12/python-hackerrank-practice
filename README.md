@@ -1,28 +1,11 @@
-# Python HackerRank Practice
+# Python Journey 🚀
 
-This repository contains my solutions to Python programming questions and coding challenges.
+A collection of Python programs, coding challenges, and problem-solving exercises that I'm using to strengthen my programming skills and prepare for coding interviews.
 
-## Topics
+### Topics
 
-* Python Basics
-* Operators
-* Conditional Statements
-* Loops
-* Strings
-* Lists
-* Tuples
-* Dictionaries
-* Sets
-* Functions
-* OOP
-* File Handling
-* Exception Handling
-* Interview Problems
+Python Basics • Strings • Lists • OOP • File Handling • Exception Handling • Interview Problems
 
-## Goal
+### Goal
 
-To improve my Python programming and problem-solving skills through consistent practice and prepare for coding interviews and HackerRank assessments.
-
-## Status
-
-🚀 In Progress
+Learn, practice, and improve one solution at a time.
