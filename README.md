@@ -4,7 +4,7 @@ A collection of Python programs, coding challenges, and problem-solving exercise
 
 ### Topics
 
-Python Basics • Strings • Lists • OOP • File Handling • Exception Handling • Interview Problems
+Python Basics • Operators • Conditional Statements • Loops • Strings • Lists • Tuples • Dictionaries • Sets • Functions • Object-Oriented Programming (OOP) • File Handling • Exception Handling • HackerRank Challenges • Interview Problems
 
 ### Goal
 
