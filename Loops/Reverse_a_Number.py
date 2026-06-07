@@ -1,0 +1,8 @@
+#Reverse a number
+N = int(input("Enter any Number: "))
+rev = 0
+while N > 0:
+    rem = N % 10
+    rev = rev*10 + rem
+    N = N//10
+print("Reverse Number: ", rev)
