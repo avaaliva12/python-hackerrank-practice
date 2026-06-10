@@ -1,0 +1,5 @@
+t = tuple(input("Enter elements using space: ").split())
+print("Tuple: ", t)
+print("Tuple to List Conversion...")
+l = list(t)
+print("List: ", l)
